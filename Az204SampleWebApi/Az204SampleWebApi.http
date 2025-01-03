@@ -1,0 +1,6 @@
+@Az204SampleWebApi_HostAddress = http://localhost:5041
+
+GET {{Az204SampleWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

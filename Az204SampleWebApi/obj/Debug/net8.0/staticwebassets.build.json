@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FU58+F7TNqvIx3TcIM30VKLIu7bVPpvgot6bwSxXyq0=",
+  "Source": "Az204SampleWebApi",
+  "BasePath": "_content/Az204SampleWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
